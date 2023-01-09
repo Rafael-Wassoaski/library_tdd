@@ -1,0 +1,1 @@
+INSERT INTO USUARIO (nome, senha, autorizacoes) VALUES ('Joao', '$2a$10$2YLJij//tnuAQ0dIeNoYwOXTp2ND0.Pq79AlkMLt0uePIZacd/Ozy', 'USUARIO')
